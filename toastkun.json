@@ -1,0 +1,10 @@
+{
+    "homepage": "https://github.com/SJKZ1-2565/ToastKun",
+    "promos": {
+        "1.16.4-latest": "1.0.0",
+ 
+    },
+    "1.16.4": {
+        "4.0.2": "\u00a7e*\u00a7r Added Nether Toasty Ore \n\u00a7e*\u00a7r Removed SteveKung's Lib from library"
+    }
+}
