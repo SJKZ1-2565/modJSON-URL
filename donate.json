@@ -1,5 +1,9 @@
-SJKZ1
-ToastKung
-SaruKunG_
-Faithz71
-SwordAce
+{
+    "donation": {
+        "SJKZ1": 50,
+        "ToastKung": 60,
+        "NemuideSaru": 60,
+        "Faithz71": 50,
+        "SwordAce": 50
+    }
+}
